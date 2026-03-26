@@ -5,18 +5,23 @@ This project is a responsive frontend web application developed using HTML, CSS,
 
 The project showcases structured layout design, responsive styling, and dynamic behavior using vanilla JavaScript.
 
+
 🚀 Technologies Used
 HTML5 – Structure and content
 CSS3 – Styling and responsive design
 JavaScript (ES6) – Interactive functionality
 Font Awesome – Icons
 Custom Fonts & Assets
+
+
 ✨ Features
 Responsive layout design
 Clean and structured UI
 Interactive elements using JavaScript
 Integrated icons using Font Awesome
 Organized project structure
+
+
 📂 Project Structure
 ├── index.html
 ├── style.css
@@ -25,6 +30,7 @@ Organized project structure
 ├── font-awesome/
 ├── img/
 └── README.md
+
 🎯 Purpose
 
 This project was developed as a practice-based learning project to strengthen frontend development skills and gain hands-on experience in building user-friendly web interfaces.
